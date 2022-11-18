@@ -1,0 +1,8 @@
+{   "parent": "block/block",
+    "textures": {
+        "particle": "block/darkdirt",
+        "bottom": "block/darkdirt",
+        "top": "block/darkgrass_top",
+        "side": "block/darkgrass_side"
+    }
+}

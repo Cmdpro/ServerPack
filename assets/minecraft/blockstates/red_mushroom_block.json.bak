@@ -1,0 +1,12 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "customblock/darkdirt"
+      }
+    }
+  ]
+}

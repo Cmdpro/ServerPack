@@ -1,0 +1,20 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "customblock/darkdirt"
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "customblock/darkgrass"
+      }
+    }
+  ]
+}
