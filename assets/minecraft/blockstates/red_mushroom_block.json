@@ -2,7 +2,12 @@
   "multipart": [
     {
       "when": {
-        "north": "true"
+        "north": "true",
+		"east": "false",
+		"south": "false",
+		"west": "false",
+		"up": "false",
+		"down": "false"
       },
       "apply": {
         "model": "customblock/darkdirt"
@@ -10,7 +15,12 @@
     },
     {
       "when": {
-        "east": "true"
+        "north": "false",
+		"east": "true",
+		"south": "false",
+		"west": "false",
+		"up": "false",
+		"down": "false"
       },
       "apply": {
         "model": "customblock/darkgrass"

@@ -1,5 +1,8 @@
 {
-  "parent": "minecraft:block/dirt",
+	"parent": "minecraft:block/template_single_face",
+	"textures": {
+		"texture": "minecraft:block/red_mushroom_block"
+	},
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "customblock/darkdirt"},
 		{"predicate": {"custom_model_data":2}, "model": "customblock/darkgrass"}

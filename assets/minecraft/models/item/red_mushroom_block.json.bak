@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/dirt",
+  "parent": "minecraft:block/red_mushroom_block_inventory",
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "customblock/darkdirt"},
 		{"predicate": {"custom_model_data":2}, "model": "customblock/darkgrass"}

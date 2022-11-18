@@ -1,6 +1,5 @@
-{   "parent": "block/block",
+{   "parent": "block/cube_bottom_top",
     "textures": {
-        "particle": "customblock/darkdirt",
         "bottom": "customblock/darkdirt",
         "top": "customblock/darkgrass_top",
         "side": "customblock/darkgrass_side"
